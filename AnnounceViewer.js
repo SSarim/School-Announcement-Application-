@@ -1,7 +1,5 @@
 /******************************
  *        Sarim Shahwar        *
- *           ICS3U             *
- *     May 14th, 2019          *
  *Annoucement Viewer Javascript*
  ******************************/
 
